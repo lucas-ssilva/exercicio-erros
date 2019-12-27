@@ -1,0 +1,11 @@
+C:\Users\Lucas\source\repos\exceção\exceção\bin\Debug\netcoreapp3.0\exceção.exe
+C:\Users\Lucas\source\repos\exceção\exceção\bin\Debug\netcoreapp3.0\exceção.deps.json
+C:\Users\Lucas\source\repos\exceção\exceção\bin\Debug\netcoreapp3.0\exceção.runtimeconfig.json
+C:\Users\Lucas\source\repos\exceção\exceção\bin\Debug\netcoreapp3.0\exceção.runtimeconfig.dev.json
+C:\Users\Lucas\source\repos\exceção\exceção\bin\Debug\netcoreapp3.0\exceção.dll
+C:\Users\Lucas\source\repos\exceção\exceção\bin\Debug\netcoreapp3.0\exceção.pdb
+C:\Users\Lucas\source\repos\exceção\exceção\obj\Debug\netcoreapp3.0\exceção.csprojAssemblyReference.cache
+C:\Users\Lucas\source\repos\exceção\exceção\obj\Debug\netcoreapp3.0\exceção.AssemblyInfoInputs.cache
+C:\Users\Lucas\source\repos\exceção\exceção\obj\Debug\netcoreapp3.0\exceção.AssemblyInfo.cs
+C:\Users\Lucas\source\repos\exceção\exceção\obj\Debug\netcoreapp3.0\exceção.dll
+C:\Users\Lucas\source\repos\exceção\exceção\obj\Debug\netcoreapp3.0\exceção.pdb
